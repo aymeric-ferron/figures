@@ -50,5 +50,5 @@ numpages = {16}
 
 
 
-\[!\[CC BY 4.0]\[cc-by-image]]\[cc-by]
+[![CC BY 4.0][cc-by-image]][cc-by]
 
